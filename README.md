@@ -12,4 +12,4 @@ make
 ./client
 
 #version
-v1.0 one pthread send&recv 1G file
+2015/01/05    v1.0 one pthread send&recv 1G file
