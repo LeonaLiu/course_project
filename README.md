@@ -2,11 +2,13 @@
 Course Project of Network Programing
 
 #intall
-make clean\n
+make clean
+
 make
 
 #run
-./server   must run first\n
+./server   must run first
+
 ./client
 
 #version
