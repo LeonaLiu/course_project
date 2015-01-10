@@ -7,7 +7,7 @@ make clean
 make
 
 #run
-./server   must run first
+./server   /* must run first*/
 
 ./client
 
